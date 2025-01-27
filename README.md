@@ -21,7 +21,7 @@
 
 ## Documentation
 
-* [Event‐driven Architecture using Apache ActiveMQ Documentation](https://github.com/lyes-sefiane/publisher-subscriber-microservices/wiki/Event%E2%80%90driven-Architecture-using-Apache-ActiveMQ)
+* [Event‐driven Architecture using Apache ActiveMQ Documentation](https://github.com/lyes-sefiane/event-driven-architecture-using-apache-activemq/wiki/Event%E2%80%90driven-Architecture-using-Apache-ActiveMQ)
 
 
 ## Infrastructure
@@ -39,7 +39,7 @@
 
 ## Deployment to Docker Swarm
 
-* [More Information](https://github.com/lyes-sefiane/publisher-subscriber-microservices/wiki/Docker-Swarm)
+* [More Information](https://github.com/lyes-sefiane/event-driven-architecture-using-apache-activemq/wiki/Docker-Swarm)
 
 ![Image](https://raw.githubusercontent.com/wiki/lyes-sefiane/publisher-subscriber-microservices/images/Orchestration-Swarm.PNG)
 
@@ -48,7 +48,7 @@
 
 ## Deployment to Kubernetes
 
-* [More Information](https://github.com/lyes-sefiane/publisher-subscriber-microservices/wiki/Kubernetes)
+* [More Information](https://github.com/lyes-sefiane/event-driven-architecture-using-apache-activemq/wiki/Kubernetes)
 
 ![Image](https://raw.githubusercontent.com/wiki/lyes-sefiane/publisher-subscriber-microservices/images/kubernetes-cluster.PNG)
 
