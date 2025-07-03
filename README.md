@@ -1,6 +1,6 @@
 # Event-Driven Architecture using Apache ActiveMQ
 
-### © 2024 | Sefiane, Lyes <img src="https://raw.githubusercontent.com/wiki/lyes-sefiane/grocery-items-management-application/images/algeria-flag-icon.png" width="2%"> <img src="https://raw.githubusercontent.com/wiki/lyes-sefiane/grocery-items-management-application/images/canada-flag-icon.png" width="2%"> All Rights Reserved | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+### Copyright © Lyes SEFIANE. All Rights Reserved | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
 
@@ -54,14 +54,9 @@
 
 ![Image](https://raw.githubusercontent.com/wiki/lyes-sefiane/publisher-subscriber-microservices/images/kubernetes-deployment.PNG)
 
-## Enhancements
-
-- [ ] OpenApi Implementation 
-- [ ] Error Handling Implementation 
-- [ ] Database access/storage Implementation
-- [ ] Security Implementation
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
