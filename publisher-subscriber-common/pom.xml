@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.4.5</version>
+		<version>3.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lsefiane</groupId>
@@ -13,9 +13,36 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>publisher-subscriber-common</name>
 	<description>Spring Boot JMS with ActiveMQ Publisher/Subscriber Common</description>
+
+	<licenses>
+		<license>
+			<name>CC BY-NC-ND 4.0</name>
+			<url>https://creativecommons.org/licenses/by-nc-nd/4.0/</url>
+			<comments>Attribution-NonCommercial-NoDerivatives 4.0 International</comments>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Lyes SEFIANE</name>
+			<email>lyes.sefiane@gmail.com</email>
+			<url>https://github.com/lyes-sefiane</url>
+			<roles>
+				<role>Software Engineering Manager</role>
+			</roles>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>scm:git:https://github.com/lyes-sefiane/event-driven-architecture-using-apache-activemq.git</connection>
+		<developerConnection>scm:git:https://github.com/lyes-sefiane/event-driven-architecture-using-apache-activemq.git</developerConnection>
+		<url>https://github.com/lyes-sefiane/event-driven-architecture-using-apache-activemq</url>
+	</scm>
+
 	<properties>
 		<java.version>17</java.version>
 	</properties>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
